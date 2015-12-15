@@ -4,7 +4,7 @@ title:  "Lets do it!"
 date:   2015-10-30 23:18:11
 categories: jekyll update
 ---
-That's what I'm talkin bout! `#yeahbro!`
+Changing something...
 
 {% highlight ruby %}
 def print_hi(name)
